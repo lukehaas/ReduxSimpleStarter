@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+A fork of Stephen Grider's Redux Simple Starter - modified to support SCSS
 
 ###Getting Started###
 
